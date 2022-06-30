@@ -7,6 +7,17 @@ Git clone https://github.com/mritsurgeon/Kastendemo
 CD to directory "Kasten WSL Demo"
 Run "WSL Demo Menu.ps1"
 
+#Note WSL image is too large for Github free cloud storage , have this hosted on Google Drive Here: http:xxxxx
+Please download and copy to folder cloned from github 
+
+with PS or CMD
+CD to directory "Kasten WSL Demo"
+then: 
+curl http:xxxxxx
+or 
+Invoke-WebRequest http:xxxxx
+
+
 Navigate Menu : 
 
     +===============================================+
@@ -39,7 +50,7 @@ Option 5 will open the Demo app URL for you ( using localhost , should work on m
 
 Option 6 will Terminate the Kasten-demo WSL image running on exit.
 
-## i would recomend you create a .wslconfig file in C:\Users\User root directory to limit usuage on device 
+## i would recommendyou create a .wslconfig file in C:\Users\User root directory to limit usuage on device 
 
 Example wslconfig :
 
