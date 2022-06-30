@@ -1,0 +1,3 @@
+[wsl2]
+memory=8gb
+swap=32
