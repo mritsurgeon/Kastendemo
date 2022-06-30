@@ -8,7 +8,7 @@ CD to directory "Kasten WSL Demo"
 Run "WSL Demo Menu.ps1" from powershell in a Admin session 
 
 #Note WSL image is too large for Github free cloud storage , have this hosted on Google Drive Here: http:xxxxx
-Please download and copy to folder cloned from github 
+Please download and copy & Unpack ( unzip ) to folder cloned from github 
 
 with PS or CMD
 CD to directory "Kasten WSL Demo"
