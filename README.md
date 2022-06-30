@@ -5,7 +5,7 @@ WSL2 Ubuntu Export Tar with Kasten k10 & Yelb App Pre-Installed
 CD to directory
 Git clone https://github.com/mritsurgeon/Kastendemo
 CD to directory "Kasten WSL Demo"
-Run "WSL Demo Menu.ps1"
+Run "WSL Demo Menu.ps1" from powershell in a Admin session 
 
 #Note WSL image is too large for Github free cloud storage , have this hosted on Google Drive Here: http:xxxxx
 Please download and copy to folder cloned from github 
